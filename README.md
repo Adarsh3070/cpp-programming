@@ -23,8 +23,24 @@ A collection of C++ programs demonstrating object-oriented programming concepts,
 - Supports deposits and withdrawals.
 - Checks the current account balance.
 
+### 5. ATM Management System
+- Implements an ATM system using a C++ ATM class.
+
+- Uses static data members to track the total cash available in the ATM and the total number of card transactions.
+
+- Implements CashWithdraw() to withdraw cash from    the ATM.
+
+- Implements CashDisplay() to display the available cash and transaction count.
+
+- Uses a static member function ATMCash() to  display the total cash available in the ATM.
+
+- Demonstrates the use of an array of objects.
+
+
 ## Concepts Covered
 
+- Static data members
+- Static member functions
 - C++ Classes and Objects
 - Friend Functions
 - Encapsulation
