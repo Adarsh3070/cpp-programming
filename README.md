@@ -1,6 +1,6 @@
-# C++ Friend Function Programs
+# C++  Programming
 
-A collection of C++ programs demonstrating object-oriented programming concepts, with a focus on friend functions.
+A collection of C++ programs demonstrating object-oriented programming concepts.
 
 ## Projects
 
@@ -35,6 +35,12 @@ A collection of C++ programs demonstrating object-oriented programming concepts,
 - Uses a static member function ATMCash() to  display the total cash available in the ATM.
 
 - Demonstrates the use of an array of objects.
+
+### 1. Password Strength Checker
+- Accepts a password from the user.
+- Counts uppercase letters, lowercase letters, digits, and special characters.
+- Uses a `for` loop to analyze the password.
+- Classifies password strength as Weak, Moderate, or Strong based on the specified rules.
 
 
 ## Concepts Covered
