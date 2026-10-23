@@ -36,11 +36,27 @@ A collection of C++ programs demonstrating object-oriented programming concepts.
 
 - Demonstrates the use of an array of objects.
 
-### 1. Password Strength Checker
+### 6. Password Strength Checker(Basic)
 - Accepts a password from the user.
 - Counts uppercase letters, lowercase letters, digits, and special characters.
 - Uses a `for` loop to analyze the password.
 - Classifies password strength as Weak, Moderate, or Strong based on the specified rules.
+
+### 7. Shopping Bill and Discount System(Basic)
+- Accepts multiple item prices from the user.
+- Calculates the total bill.
+- Uses `break` and `continue` statements.
+- Ignores negative prices and displays a warning.
+- Applies a 10% discount when the total bill exceeds ₹5,000.
+
+### 8. Traffic Signal System(Basic)
+- Accepts a traffic light color as input.
+- Uses `if-else` statements to determine the appropriate action.
+- Displays:
+  - Red → Stop
+  - Yellow → Get Ready
+  - Green → Go
+- Handles invalid inputs.
 
 
 ## Concepts Covered
