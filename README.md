@@ -58,9 +58,11 @@ A collection of C++ programs demonstrating object-oriented programming concepts.
   - Green → Go
 - Handles invalid inputs.
 
+### 9. AccessSpecifiers(simple program)
+
 
 ## Concepts Covered
-
+- AccessSpecifiers
 - Static data members
 - Static member functions
 - C++ Classes and Objects
